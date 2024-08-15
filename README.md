@@ -1,4 +1,4 @@
-Wildfire Spread Dynamics
+# Wildfire Spread Dynamics
 
 ## Project Summary
 This project investigates the dynamics of wildfire spread in the northeast region of Portugal. The focus is on understanding the relationship between the Fine Fuel Moisture Code (FFMC) and the Initial Spread Index (ISI), which are crucial indicators of fire behavior. The analysis aims to determine how FFMC influences the speed at which wildfires spread.
